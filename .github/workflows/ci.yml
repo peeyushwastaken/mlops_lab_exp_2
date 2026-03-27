@@ -28,5 +28,5 @@ jobs:
       # Step 4: Run the ML Pipeline Script (train.py)
       - name: Run Training Pipeline
         run: |
-          python train.py
+          python test_model.py
 
